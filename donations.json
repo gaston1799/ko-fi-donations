@@ -1,1 +1,20 @@
-{"goal":{"title":"Laptop upgrade fund","target":370,"currency":"USD"},"donations":[]}
+{
+  "goal": {
+    "title": "Laptop upgrade fund",
+    "target": 370,
+    "currency": "USD"
+  },
+  "donations": [
+    {
+      "id": "fallback:ko-fi test|3|2026-08-16T20:05:00.000Z",
+      "source": "kofi",
+      "type": "Donation",
+      "from": "Ko-fi Test",
+      "amount": 3,
+      "currency": "USD",
+      "message": "",
+      "date": "2026-08-16T20:05:00.000Z",
+      "is_subscription_payment": false
+    }
+  ]
+}
