@@ -1,1 +1,20 @@
-{"goal":{"title":"Laptop upgrade fund","target":370,"currency":"USD"},"donations":[]}
+{
+  "goal": {
+    "title": "Laptop upgrade fund",
+    "target": 370,
+    "currency": "USD"
+  },
+  "donations": [
+    {
+      "id": "TEST_1786910865:created",
+      "source": "github",
+      "type": "Sponsorship",
+      "from": "ping-signature-test",
+      "amount": 5,
+      "currency": "USD",
+      "message": "",
+      "date": "2026-08-16T00:00:00.000Z",
+      "is_subscription_payment": true
+    }
+  ]
+}
