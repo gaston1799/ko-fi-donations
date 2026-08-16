@@ -1,19 +1,10 @@
-{
-  "goal": {
-    "title": "Laptop upgrade fund",
-    "target": 370,
-    "currency": "USD"
-  },
-  "donations": [
-    {
-      "id": "test-e2e-1786903888",
-      "type": "Donation",
-      "from": "E2E Test",
-      "amount": 7.77,
-      "currency": "USD",
-      "message": "push-path verification",
-      "date": "2026-08-16T16:00:00.000Z",
-      "is_subscription_payment": false
-    }
-  ]
+﻿{
+    "donations":  [
+
+                  ],
+    "goal":  {
+                 "title":  "Laptop upgrade fund",
+                 "target":  370,
+                 "currency":  "USD"
+             }
 }
