@@ -4,17 +4,5 @@
     "target": 370,
     "currency": "USD"
   },
-  "donations": [
-    {
-      "id": "test-contents-1786907751",
-      "source": "kofi",
-      "type": "Donation",
-      "from": "Contents API Test",
-      "amount": 12.34,
-      "currency": "USD",
-      "message": "push path verification",
-      "date": "2026-08-16T16:00:00.000Z",
-      "is_subscription_payment": false
-    }
-  ]
+  "donations": []
 }
